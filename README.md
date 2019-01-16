@@ -9,7 +9,7 @@ Homework for the network programming course in university - DNS server/client in
 #### Running the apps
 `./server <server_IPv6_addess>`
 
-`./client <server_IPv6_addess> <DNS>`
+`./client <server_IPv6_addess> <domain name>`
 
 #### Testing
 `./client  ::ffff:c0a8:66 yahoo.com`  
